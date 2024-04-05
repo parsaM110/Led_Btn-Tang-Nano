@@ -34,6 +34,7 @@ https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-1K/Nano-1k.html
 
 which lead to these :
 - https://dl.sipeed.com/shareURL/TANG/programmer
+- https://dl.sipeed.com/shareURL/TANG/Nano
 - https://mega.nz/folder/A8g1Hb4J#WcuoqvbpasKlVB8-YEpWPA/folder/opp0STJK
 
 ### 📌 there is also other ways to program tang-nano-1k fpga board
