@@ -1,4 +1,7 @@
 based on video : https://www.youtube.com/watch?v=F5hlv3XTcO0 by `xesscorp` ( my board is tang-nano  which is simillar to tang-nano-1k)
+you pick it when you are creating project :
+ ![image](https://github.com/parsaM110/Led_Btn-Tang-Nano/assets/101204725/3fddcc3c-1ba9-4157-96e7-4a413bcc3d2a)
+
 
 ![image](https://github.com/parsaM110/Led_Btn-Tang-Nano-1K/assets/101204725/d2a94e9b-6ece-4fe1-b151-b4f2907243b2)
 
